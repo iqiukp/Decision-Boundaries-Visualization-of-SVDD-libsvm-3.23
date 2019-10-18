@@ -12,12 +12,12 @@ This code is written for decision boundary visualization of SVDD in the libsvm-3
 
 ## Demo (banana dataset)
 
-### Underfittin
+### Underfitting
 ![](img/img1.png)
 
 ### Normal
 ![](img/img2.png)
 
 
-### Overfittin
+### Overfitting
 ![](img/img3.png)
